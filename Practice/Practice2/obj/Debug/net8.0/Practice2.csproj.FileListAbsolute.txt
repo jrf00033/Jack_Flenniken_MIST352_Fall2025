@@ -1,0 +1,15 @@
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\bin\Debug\net8.0\Practice2.exe
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\bin\Debug\net8.0\Practice2.deps.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\bin\Debug\net8.0\Practice2.runtimeconfig.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\bin\Debug\net8.0\Practice2.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\bin\Debug\net8.0\Practice2.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\obj\Debug\net8.0\Practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\obj\Debug\net8.0\Practice2.AssemblyInfoInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\obj\Debug\net8.0\Practice2.AssemblyInfo.cs
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\obj\Debug\net8.0\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\obj\Debug\net8.0\Practice2.sourcelink.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\obj\Debug\net8.0\Practice2.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\obj\Debug\net8.0\refint\Practice2.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\obj\Debug\net8.0\Practice2.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\obj\Debug\net8.0\Practice2.genruntimeconfig.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice2\obj\Debug\net8.0\ref\Practice2.dll
