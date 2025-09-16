@@ -1,0 +1,15 @@
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\bin\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.exe
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\bin\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.deps.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\bin\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.runtimeconfig.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\bin\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\bin\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\obj\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\obj\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.AssemblyInfoInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\obj\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.AssemblyInfo.cs
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\obj\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.csproj.CoreCompileInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\obj\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.sourcelink.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\obj\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\obj\Debug\net8.0\refint\Task5 - IF_multiple_grades_evaluation.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\obj\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\obj\Debug\net8.0\Task5 - IF_multiple_grades_evaluation.genruntimeconfig.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\In_Class_Tasks\Task5 - IF_multiple_grades_evaluation\obj\Debug\net8.0\ref\Task5 - IF_multiple_grades_evaluation.dll
