@@ -43,6 +43,7 @@ namespace HW2
             Console.WriteLine($"Loaded {arrPrices.Length} items from file.\n");
 
             // 2) Compute subtotal (YOU code this)
+
             double dblSubtotal = ComputeSubtotal(arrPrices, arrPrices.Length);
             Console.WriteLine($"[SUBTOTAL_USD] {dblSubtotal:0.00}");
 
@@ -163,6 +164,13 @@ namespace HW2
         static void ShowMenu()
         {
             // TODO: 4–6 lines: file input (prices.txt), subtotal, loyalty, FX, surcharge, summary
+            Console.WriteLine("" +
+                "This program reads item prices from prices.txt." +
+                "\nIt computes a subtotal, applies a loyalty adjustment and converts via FX." +
+                "\nYou can add an optional surcharge as a decimal (e.g., 0.02 = 2%)." +
+                "\nFinally, it prints a short business summary." +
+                "\nMake sure prices.txt is in the same folder as Program.cs\n");
+
         }
 
         // ==============================================
@@ -172,10 +180,28 @@ namespace HW2
         // Params: arr (double[]), count (int)
         // Returns: subtotal (double)
         // ==============================================
-        static double ComputeSubtotal(double[] arr, int count)
+        static double ComputeSubtotal(double[] arr,int count)
         {
             // TODO: for-loop + if (arr[i] > 0) accumulate
-            return 0.0;
+            //count is equal to 30, arr is equal to the arrPrices
+            //defining an int to count the values that are > 0
+            int added = 0;
+            //defining a double to store the sub-total value
+            double subTotal = 0.0;
+            //creating a for loop to search the array
+            for (int i = 0; i < count && i < arr.Length; i++)
+            {
+                //if a value is greater than 0
+                if (arr[i] > 0)
+                {
+                    //count the value
+                    added++;
+                    //add value to subtotal
+                    subTotal += arr[i];
+                }
+            }
+            //outputting the added subtotal 
+            return subTotal;
         }
 
         // ==============================================
@@ -187,6 +213,12 @@ namespace HW2
         static void ApplySurcharge(ref double amt, double pct)
         {
             // TODO: if (pct > 0) amt *= (1 + pct);
+            //if the surcharge percent is greater than 0
+            if (pct > 0)
+            {
+                //You multiply the amount by 1 plus the percent
+                amt *= (1 + pct);
+            }
         }
 
         // ==============================================
@@ -198,6 +230,13 @@ namespace HW2
         static void DisplaySummary(double subtotal, double adjusted, double finalAmt)
         {
             // TODO: clean 3–5 lines of labeled output
+            //Printing a summary of the subtotal, adjusted, and final converted numbers
+            Console.WriteLine($"" +
+                $"--- Summary ---" +
+                $"Subtotal (USD): {subtotal}\n" +
+                $"Adjusted (USD): {adjusted}\n" +
+                $"Final Converted: {finalAmt}\n" +
+                $"---------------");
         }
 
         // ==============================================
@@ -210,7 +249,20 @@ namespace HW2
         static int CountItemsAbove(double[] arr, int count)
         {
             // TODO: for-loop + if (arr[i] > 20.0) ++counter
-            return 0;
+            //defining and int to store the counted items
+            int ItemsAbove20 = 0;
+            //creating a for loop to sort through the items in the array that are less than the count and length
+            for (int i = 0; i < count && i < arr.Length; i++)
+            {
+                //if the array value is greater than 20
+                if (arr[i] > 20.0)
+                {
+                    //Add it to the count of numbers above 20
+                    ItemsAbove20++;
+                }
+            }
+            //outputting the count of the numbers above 20
+            return ItemsAbove20;
         }
 
         // ==============================================
@@ -223,7 +275,21 @@ namespace HW2
         static double MaxPrice(double[] arr, int count)
         {
             // TODO: track max; if (arr[i] > 0 && arr[i] > max) max = arr[i];
-            return 0.0;
+            //Defining a variable to store the max price in
+            double maxPrice = 0.0;
+            //creating a for loop to go through the items < the count and < the length of the array
+            for (int i = 0; i < count && i < arr.Length; i++)
+            {
+                //if the vale is > 0 and > max Price
+                if (arr[i] > 0 && arr[i] > maxPrice)
+                {
+                    //It becomes the value of Max Price
+                    maxPrice = arr[i];
+                } 
+                
+            }
+            //outputting max price
+            return maxPrice;
         }
 
         // (Optional) You may add tiny helper methods BELOW THIS LINE however, they shoould NOT be part of the solution. 
