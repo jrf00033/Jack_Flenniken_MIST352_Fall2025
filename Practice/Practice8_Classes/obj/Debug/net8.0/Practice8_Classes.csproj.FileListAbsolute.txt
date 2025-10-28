@@ -1,0 +1,15 @@
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\bin\Debug\net8.0\Practice8_Classes.exe
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\bin\Debug\net8.0\Practice8_Classes.deps.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\bin\Debug\net8.0\Practice8_Classes.runtimeconfig.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\bin\Debug\net8.0\Practice8_Classes.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\bin\Debug\net8.0\Practice8_Classes.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\obj\Debug\net8.0\Practice8_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\obj\Debug\net8.0\Practice8_Classes.AssemblyInfoInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\obj\Debug\net8.0\Practice8_Classes.AssemblyInfo.cs
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\obj\Debug\net8.0\Practice8_Classes.csproj.CoreCompileInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\obj\Debug\net8.0\Practice8_Classes.sourcelink.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\obj\Debug\net8.0\Practice8_Classes.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\obj\Debug\net8.0\refint\Practice8_Classes.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\obj\Debug\net8.0\Practice8_Classes.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\obj\Debug\net8.0\Practice8_Classes.genruntimeconfig.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice8_Classes\obj\Debug\net8.0\ref\Practice8_Classes.dll
