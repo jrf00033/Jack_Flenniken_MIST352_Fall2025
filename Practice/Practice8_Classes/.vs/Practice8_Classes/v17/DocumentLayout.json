@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{57219557-7026-41AF-91D5-91D422270755}|Practice8_Classes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{57219557-7026-41AF-91D5-91D422270755}|Practice8_Classes.csproj|c:\\users\\jackf\\onedrive\\documents\\mist 352_fall25\\jack_flenniken_mist352_fall2025\\practice\\practice8_classes\\fancystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57219557-7026-41AF-91D5-91D422270755}|Practice8_Classes.csproj|solutionrelative:fancystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57219557-7026-41AF-91D5-91D422270755}|Practice8_Classes.csproj|c:\\users\\jackf\\onedrive\\documents\\mist 352_fall25\\jack_flenniken_mist352_fall2025\\practice\\practice8_classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57219557-7026-41AF-91D5-91D422270755}|Practice8_Classes.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,20 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice8_Classes\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
               "ToolTip": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice8_Classes\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wDAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T15:42:41.141Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FancyStudent.cs",
+              "DocumentMoniker": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice8_Classes\\FancyStudent.cs",
+              "RelativeDocumentMoniker": "FancyStudent.cs",
+              "ToolTip": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice8_Classes\\FancyStudent.cs",
+              "RelativeToolTip": "FancyStudent.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:22:54.153Z",
               "EditorCaption": ""
             },
             {
@@ -46,7 +63,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice8_Classes\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwB4AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T15:41:55.381Z",
               "EditorCaption": ""
