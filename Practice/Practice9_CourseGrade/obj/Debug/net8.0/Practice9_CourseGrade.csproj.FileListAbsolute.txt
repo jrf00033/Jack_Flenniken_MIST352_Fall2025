@@ -1,0 +1,15 @@
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\bin\Debug\net8.0\Practice9_CourseGrade.exe
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\bin\Debug\net8.0\Practice9_CourseGrade.deps.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\bin\Debug\net8.0\Practice9_CourseGrade.runtimeconfig.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\bin\Debug\net8.0\Practice9_CourseGrade.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\bin\Debug\net8.0\Practice9_CourseGrade.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\obj\Debug\net8.0\Practice9_CourseGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\obj\Debug\net8.0\Practice9_CourseGrade.AssemblyInfoInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\obj\Debug\net8.0\Practice9_CourseGrade.AssemblyInfo.cs
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\obj\Debug\net8.0\Practice9_CourseGrade.csproj.CoreCompileInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\obj\Debug\net8.0\Practice9_CourseGrade.sourcelink.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\obj\Debug\net8.0\Practice9_CourseGrade.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\obj\Debug\net8.0\refint\Practice9_CourseGrade.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\obj\Debug\net8.0\Practice9_CourseGrade.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\obj\Debug\net8.0\Practice9_CourseGrade.genruntimeconfig.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice9_CourseGrade\obj\Debug\net8.0\ref\Practice9_CourseGrade.dll
