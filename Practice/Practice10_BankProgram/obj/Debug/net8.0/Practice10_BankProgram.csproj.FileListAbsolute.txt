@@ -1,0 +1,15 @@
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\bin\Debug\net8.0\Practice10_BankProgram.exe
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\bin\Debug\net8.0\Practice10_BankProgram.deps.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\bin\Debug\net8.0\Practice10_BankProgram.runtimeconfig.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\bin\Debug\net8.0\Practice10_BankProgram.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\bin\Debug\net8.0\Practice10_BankProgram.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\obj\Debug\net8.0\Practice10_BankProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\obj\Debug\net8.0\Practice10_BankProgram.AssemblyInfoInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\obj\Debug\net8.0\Practice10_BankProgram.AssemblyInfo.cs
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\obj\Debug\net8.0\Practice10_BankProgram.csproj.CoreCompileInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\obj\Debug\net8.0\Practice10_BankProgram.sourcelink.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\obj\Debug\net8.0\Practice10_BankProgram.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\obj\Debug\net8.0\refint\Practice10_BankProgram.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\obj\Debug\net8.0\Practice10_BankProgram.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\obj\Debug\net8.0\Practice10_BankProgram.genruntimeconfig.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Practice\Practice10_BankProgram\obj\Debug\net8.0\ref\Practice10_BankProgram.dll

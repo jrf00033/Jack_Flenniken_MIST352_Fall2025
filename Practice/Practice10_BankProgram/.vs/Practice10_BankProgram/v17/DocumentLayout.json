@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice10_BankProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9656815-F048-4769-A30E-E9449FF9DF47}|Practice10_BankProgram.csproj|c:\\users\\jackf\\onedrive\\documents\\mist 352_fall25\\jack_flenniken_mist352_fall2025\\practice\\practice10_bankprogram\\teller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9656815-F048-4769-A30E-E9449FF9DF47}|Practice10_BankProgram.csproj|solutionrelative:teller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9656815-F048-4769-A30E-E9449FF9DF47}|Practice10_BankProgram.csproj|c:\\users\\jackf\\onedrive\\documents\\mist 352_fall25\\jack_flenniken_mist352_fall2025\\practice\\practice10_bankprogram\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9656815-F048-4769-A30E-E9449FF9DF47}|Practice10_BankProgram.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9656815-F048-4769-A30E-E9449FF9DF47}|Practice10_BankProgram.csproj|c:\\users\\jackf\\onedrive\\documents\\mist 352_fall25\\jack_flenniken_mist352_fall2025\\practice\\practice10_bankprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9656815-F048-4769-A30E-E9449FF9DF47}|Practice10_BankProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teller.cs",
+              "DocumentMoniker": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice10_BankProgram\\Teller.cs",
+              "RelativeDocumentMoniker": "Teller.cs",
+              "ToolTip": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice10_BankProgram\\Teller.cs",
+              "RelativeToolTip": "Teller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:13:42.406Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice10_BankProgram\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice10_BankProgram\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:40:39.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice10_BankProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Practice\\Practice10_BankProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA5wBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:40:06.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
