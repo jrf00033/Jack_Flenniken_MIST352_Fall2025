@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3LLM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04EA8847-9F6E-47D9-927A-470669BB7DA2}|HW3LLM.csproj|c:\\users\\jackf\\onedrive\\documents\\mist 352_fall25\\jack_flenniken_mist352_fall2025\\homework\\hw3llm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EA8847-9F6E-47D9-927A-470669BB7DA2}|HW3LLM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3LLM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3LLM\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAIwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T04:18:26.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

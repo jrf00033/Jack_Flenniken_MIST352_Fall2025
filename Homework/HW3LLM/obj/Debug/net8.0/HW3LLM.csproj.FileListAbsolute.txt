@@ -1,0 +1,15 @@
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\bin\Debug\net8.0\HW3LLM.exe
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\bin\Debug\net8.0\HW3LLM.deps.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\bin\Debug\net8.0\HW3LLM.runtimeconfig.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\bin\Debug\net8.0\HW3LLM.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\bin\Debug\net8.0\HW3LLM.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\obj\Debug\net8.0\HW3LLM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\obj\Debug\net8.0\HW3LLM.AssemblyInfoInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\obj\Debug\net8.0\HW3LLM.AssemblyInfo.cs
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\obj\Debug\net8.0\HW3LLM.csproj.CoreCompileInputs.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\obj\Debug\net8.0\HW3LLM.sourcelink.json
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\obj\Debug\net8.0\HW3LLM.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\obj\Debug\net8.0\refint\HW3LLM.dll
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\obj\Debug\net8.0\HW3LLM.pdb
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\obj\Debug\net8.0\HW3LLM.genruntimeconfig.cache
+C:\Users\jackf\OneDrive\Documents\MIST 352_Fall25\Jack_Flenniken_MIST352_Fall2025\Homework\HW3LLM\obj\Debug\net8.0\ref\HW3LLM.dll

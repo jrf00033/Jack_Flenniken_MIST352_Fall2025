@@ -1,4 +1,8 @@
-﻿namespace HW3
+﻿//Jack Flenniken
+//12/14/2025
+//Workshop Reservation System
+
+namespace HW3
 {
     internal class Program
     {
@@ -93,52 +97,6 @@
             }
         }
 
-
-        /*var key = "";
-        while (key != null)
-        {
-            var session = new WorkshopSession("Workspace 1");
-
-            ShowMenu();
-            Console.Write("Your Choice:");
-            key = Console.ReadLine();
-            switch (key)
-            {
-                case "1":
-                    var participant = new Participant(1, "Jack");
-                    break;
-
-                case "2":
-
-                    break;
-                case "3":
-                    session.DisplayAllSeats();
-                    break;
-                case "4":
-                    return;
-                    break;
-                case "9":
-                    DebugFillAllSeats(session);
-                    break;
-            }
-        }*/
-
-
-
-
-
-
-
-
-        /*var session = new WorkshopSession("test");
-
-        DebugFillAllSeats(session);
-        session.DisplayAllSeats(); */
-
-
-
-
-
         static int ShowMenu()
         {
 
@@ -155,11 +113,6 @@
         {
             return Console.ReadLine().Trim().ToUpper() == "Y";
         }
-
-
-
-
-
 
 
 
