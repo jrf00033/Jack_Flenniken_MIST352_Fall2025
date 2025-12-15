@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E98535F-F7F4-457B-86CE-30BDF753E277}|HW3.csproj|c:\\users\\jackf\\onedrive\\documents\\mist 352_fall25\\jack_flenniken_mist352_fall2025\\homework\\hw3\\workshopsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E98535F-F7F4-457B-86CE-30BDF753E277}|HW3.csproj|solutionrelative:workshopsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E98535F-F7F4-457B-86CE-30BDF753E277}|HW3.csproj|c:\\users\\jackf\\onedrive\\documents\\mist 352_fall25\\jack_flenniken_mist352_fall2025\\homework\\hw3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E98535F-F7F4-457B-86CE-30BDF753E277}|HW3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E98535F-F7F4-457B-86CE-30BDF753E277}|HW3.csproj|c:\\users\\jackf\\onedrive\\documents\\mist 352_fall25\\jack_flenniken_mist352_fall2025\\homework\\hw3\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E98535F-F7F4-457B-86CE-30BDF753E277}|HW3.csproj|solutionrelative:participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E98535F-F7F4-457B-86CE-30BDF753E277}|HW3.csproj|c:\\users\\jackf\\onedrive\\documents\\mist 352_fall25\\jack_flenniken_mist352_fall2025\\homework\\hw3\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E98535F-F7F4-457B-86CE-30BDF753E277}|HW3.csproj|solutionrelative:seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "WorkshopSession.cs",
+              "DocumentMoniker": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3\\WorkshopSession.cs",
+              "RelativeDocumentMoniker": "WorkshopSession.cs",
+              "ToolTip": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3\\WorkshopSession.cs",
+              "RelativeToolTip": "WorkshopSession.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwH8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:23:05.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3\\Seat.cs",
+              "RelativeDocumentMoniker": "Seat.cs",
+              "ToolTip": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3\\Seat.cs",
+              "RelativeToolTip": "Seat.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwFAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:49:49.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Participant.cs",
               "DocumentMoniker": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3\\Participant.cs",
               "RelativeDocumentMoniker": "Participant.cs",
               "ToolTip": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3\\Participant.cs",
               "RelativeToolTip": "Participant.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAIAxwEUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T17:19:40.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\jackf\\OneDrive\\Documents\\MIST 352_Fall25\\Jack_Flenniken_MIST352_Fall2025\\Homework\\HW3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T17:17:03.806Z",
               "EditorCaption": ""
